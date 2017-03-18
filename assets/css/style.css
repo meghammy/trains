@@ -1,5 +1,15 @@
-#title {
-	text-align: left;
-	color: purple;
+
+body {
+	background-image: url("../images/background.jpg");
+	background-size: 100% 800px;
+	background-repeat: repeat-x;
 }
 
+#title {
+	text-align: center;
+	color: #ffe6f2;
+	text-shadow: 8px 8px 20px #66a3ff;
+	font-size: 150px;
+	
+
+}
